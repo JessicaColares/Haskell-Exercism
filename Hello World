@@ -1,0 +1,5 @@
+-- Resolução da questão Hello World
+
+module HelloWorld (hello) where
+hello :: String
+hello = "Hello, World!"
